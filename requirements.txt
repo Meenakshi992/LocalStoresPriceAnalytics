@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+numpy
+plotly
+geopy
+pymupdf
+chromadb
+langchain-text-splitters
+scikit-learn
